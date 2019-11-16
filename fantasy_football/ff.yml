@@ -1,0 +1,5 @@
+name: ff
+dependencies:
+  - python=3.7
+  - pandas
+  - jupyter
